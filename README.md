@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrititgit&label=Profile%20views&color=0e75b6&style=flat" alt="akrititgit" /> </p>
 
-- 🔭 I’m currently working on **Green Vision**
+- 🔭 I’m currently working on **Green Vision(Potato leaf Classification**
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Python,operating system, Machine Learning**
+- 💬 Ask me about **Python,operating system, Machine Learning, Oops, DBMS**
 
 - 📫 How to reach me **shreyat731@gmail.com**
 
