@@ -1,13 +1,12 @@
-![logo](https://github.com/akrititgit/akrititgit/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Akriti Tiwari</h1>
 <h3 align="center">A passionate frontend developer and Machine Learning Enthusiastic</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrititgit&label=Profile%20views&color=0e75b6&style=flat" alt="akrititgit" /> </p>
 
-- 🔭 I’m currently working on **Green Vision(Potato leaf Classification**
+- 🔭 I’m currently working on **Restaurant Website**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python,operating system, Machine Learning, Oops, DBMS**
 
